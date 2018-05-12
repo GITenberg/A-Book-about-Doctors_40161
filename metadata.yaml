@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32908'
     url: http://www.gutenberg.org/2009/agents/32908
 description: Bound in brown buckram with blind-stamped panels on front cover.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40161#A-Book-about-Doctors
 gutenberg_issued: '2012-07-08'
 gutenberg_type: Text
 identifiers:
