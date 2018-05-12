@@ -1,0 +1,37 @@
+_repo: A-Book-about-Doctors_40161
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40161-h/images/001cover.jpg
+creator:
+  author:
+    agent_name: Jeaffreson, John Cordy
+    alias: Jeaffreson, J. C. (John Cordy)
+    birthdate: 1831
+    deathdate: 1901
+    gutenberg_agent_id: '32908'
+    url: http://www.gutenberg.org/2009/agents/32908
+description: Bound in brown buckram with blind-stamped panels on front cover.
+gutenberg_issued: '2012-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Anecdotes'
+- !lcsh 'Physicians -- Great Britain'
+- !lcc 'R'
+tableOfContents: 'Something about sticks, and rather less about wigs -- Early English
+  physicians -- Sir Thomas Browne and Sir Kenelm Digby -- Sir Hans Sloane -- The apothecaries
+  and Sir Samuel Garth -- Quacks -- John Radcliffe -- The doctor as a bon-vivant --
+  Fees -- Pedagogues turned doctors -- The generosity and parsimony of physicians
+  -- Bleeding -- Richard Mead -- Imagination as a remedial power -- Imagination and
+  nervous excitement: Mesmer -- Make way for the ladies! -- Messenger Monsey -- Akenside
+  -- Lettsom -- A few more quacks -- St. John Long -- The quarrels of physicians --
+  The loves of physicians -- Literature and art -- Number eleven: a hospital story
+  -- Medical buildings -- The country medical man.'
+title: A Book About Doctors
+url: http://www.gutenberg.org/ebooks/40161
